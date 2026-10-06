@@ -143,13 +143,13 @@ zulvanavis-porto/
 
 **Social & Professional**
 - 🔗 GitHub: https://github.com/zulvis
-- 💼 Portfolio: https://zulvis.github.io/muhammad/zulvanavis-porto/
+- 💼 Portfolio: https://zulvis.github.io/muhammad/zulvanavis-portfolio/
 
 ---
 
 ## 🌐 Cara Mengakses Portfolio
 
-1. Kunjungi: **https://zulvis.github.io/zulvanavis-porto/**
+1. Kunjungi: **https://zulvis.github.io/muhammad/zulvanavis-portfolio/**
 2. Halaman akan otomatis mengarahkan ke portfolio lengkap
 3. Eksplorasi setiap bagian untuk informasi detail
 4. Gunakan fitur "Ask AI" untuk pertanyaan tentang profil
