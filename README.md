@@ -143,7 +143,7 @@ zulvanavis-porto/
 
 **Social & Professional**
 - 🔗 GitHub: https://github.com/zulvis
-- 💼 Portfolio: https://zulvis.github.io/zulvanavis-porto/
+- 💼 Portfolio: https://zulvis.github.io/muhammad/zulvanavis-porto/
 
 ---
 
