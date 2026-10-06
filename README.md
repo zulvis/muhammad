@@ -34,3 +34,8 @@ zulvanavis-porto/
     ├── projects/
     ├── public/
     └── skills/
+
+## Kontak
+- Email: muhammadzulvanavis.work@gmail.com
+- WhatsApp: +62 831-9816-8869
+- Lokasi: Malang, Indonesia
