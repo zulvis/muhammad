@@ -1,6 +1,6 @@
 # 🎨 Muhammad Zulva Navis | Portofolio
 
-Portfolio website personal yang menampilkan informasi profesional, pengalaman, proyek, keahlian, sertifikat, dan kontak yang relevan untuk kebutuhan karier dan peluang kerja.
+Portofolio website personal yang menampilkan informasi profesional, pengalaman, proyek, keahlian, sertifikat, dan kontak yang relevan untuk kebutuhan karier dan peluang kerja.
 
 ---
 
@@ -143,13 +143,13 @@ zulvanavis-porto/
 
 **Social & Professional**
 - 🔗 GitHub: https://github.com/zulvis
-- 💼 Portfolio: https://zulvis.github.io/muhammad/zulvanavis-portfolio/
+- 💼 Portfolio: https://zulvis.github.io/zulvanavis-porto/
 
 ---
 
-## 🌐 Cara Mengakses Portfolio
+## 🌐 Cara Mengakses Porto
 
-1. Kunjungi: **https://zulvis.github.io/muhammad/zulvanavis-portfolio/**
+1. Kunjungi: **https://zulvis.github.io/zulvanavis-porto/**
 2. Halaman akan otomatis mengarahkan ke portfolio lengkap
 3. Eksplorasi setiap bagian untuk informasi detail
 4. Gunakan fitur "Ask AI" untuk pertanyaan tentang profil
@@ -158,15 +158,15 @@ zulvanavis-porto/
 
 ## 📄 Download CV
 
-CV lengkap tersedia di dalam portfolio. Kunjungi bagian "About" untuk download CV PDF.
+CV lengkap tersedia di dalam portofolio. Kunjungi bagian "About" untuk download CV PDF.
 
 ---
 
 ## 📝 Catatan
 
-Portfolio ini dibuat untuk menampilkan perjalanan, kompetensi, dan potensi saya dalam dunia kerja profesional. Saya terbuka untuk kesempatan kolaborasi, diskusi bisnis, dan peluang karir yang selaras dengan minat dan keahlian saya.
+Portofolio ini dibuat untuk menampilkan perjalanan, kompetensi, dan potensi saya dalam dunia kerja profesional. Saya terbuka untuk kesempatan kolaborasi, diskusi bisnis, dan peluang karir yang selaras dengan minat dan keahlian saya.
 
-**Terima kasih telah mengunjungi portfolio saya!** 🙏
+**Terima kasih telah mengunjungi portofolio saya!** 🙏
 
 ---
 
