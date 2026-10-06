@@ -1,4 +1,4 @@
-# 🎨 Muhammad Zulva Navis | Portfolio
+# 🎨 Muhammad Zulva Navis | Portofolio
 
 Portfolio website personal yang menampilkan informasi profesional, pengalaman, proyek, keahlian, sertifikat, dan kontak yang relevan untuk kebutuhan karier dan peluang kerja.
 
