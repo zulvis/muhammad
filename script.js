@@ -1,12 +1,12 @@
 const pages = [
-  { id: 'home', label: 'Home', icon: '⌂', iconImage: 'asset.home.svg', route: '' },
+  { id: 'home', label: 'Home', icon: '⌂', iconImage: 'asset.home2.svg', route: '' },
   { id: 'education', label: 'Education', icon: '◇', iconImage: 'asset.education.svg', route: 'education/' },
-  { id: 'experience', label: 'Experience', icon: '▣', iconImage: 'asset.experience.svg', route: 'experience/' },
+  { id: 'experience', label: 'Experience', icon: '▣', iconImage: 'asset.experience2.svg', route: 'experience/' },
   { id: 'projects', label: 'Projects', icon: '▤', iconImage: 'asset.project.svg', route: 'projects/' },
   { id: 'skills', label: 'Skills', icon: '✳', route: 'skills/' },
-  { id: 'certificates', label: 'Certificates', icon: '☆', iconImage: 'asset.certificate.svg', route: 'certificates/' },
-  { id: 'ask', label: 'Ask AI', icon: '▢', iconImage: 'asset.ask ai.svg', route: 'ask/' },
-  { id: 'contact', label: 'Get In Touch', icon: '✉', iconImage: 'asset.get in touch.svg', route: 'contact/' }
+  { id: 'certificates', label: 'Certificates', icon: '☆', iconImage: 'asset.certificate2.svg', route: 'certificates/' },
+  { id: 'ask', label: 'Ask AI', icon: '▢', iconImage: 'asset.askai2.svg', route: 'ask/' },
+  { id: 'contact', label: 'Get In Touch', icon: '✉', iconImage: 'asset.hubungisaya.svg', route: 'contact/' }
 ];
 
 const body = document.body;
