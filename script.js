@@ -1,5 +1,5 @@
 const pages = [
-  { id: 'home', label: 'Home', icon: '⌂', route: '' },
+  { id: 'home', label: 'Home', icon: '⌂', iconImage: 'asset.home.svg', route: '' },
   { id: 'education', label: 'Education', icon: '◇', route: 'education/' },
   { id: 'experience', label: 'Experience', icon: '▣', route: 'experience/' },
   { id: 'projects', label: 'Projects', icon: '▤', route: 'projects/' },
@@ -25,8 +25,12 @@ sidebar.innerHTML = `
   <nav aria-label="Navigasi utama">
     ${pages.map(page => {
       const current = page.id === currentPage;
-      return `<a class="nav-link" href="${basePath}${page.route || './'}"
-${current ? ' aria-current="page"' : ''}><span class="nav-icon" aria-hidden="true">${page.icon}</span><span>${page.label}</span></a>`;
+      return `<a class="nav-link" href="${basePath}${page.route || './'}"${current ? ' aria-current="page"' : ''}>
+  ${page.iconImage
+    ? `<img class="nav-icon-image" src="${basePath}assets/${page.iconImage}" alt="">`
+    : `<span class="nav-icon" aria-hidden="true">${page.icon}</span>`}
+  <span>${page.label}</span>
+</a>`;
     }).join('')}
   </nav>
   <div class="sidebar-bottom">
