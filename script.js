@@ -1,12 +1,12 @@
 const pages = [
   { id: 'home', label: 'Home', icon: '⌂', iconImage: 'asset.home.svg', route: '' },
-  { id: 'education', label: 'Education', icon: '◇', route: 'education/' },
-  { id: 'experience', label: 'Experience', icon: '▣', route: 'experience/' },
-  { id: 'projects', label: 'Projects', icon: '▤', route: 'projects/' },
+  { id: 'education', label: 'Education', icon: '◇', iconImage: 'asset.education.svg', route: 'education/' },
+  { id: 'experience', label: 'Experience', icon: '▣', iconImage: 'asset.experience.svg', route: 'experience/' },
+  { id: 'projects', label: 'Projects', icon: '▤', iconImage: 'asset.project.svg', route: 'projects/' },
   { id: 'skills', label: 'Skills', icon: '✳', route: 'skills/' },
-  { id: 'certificates', label: 'Certificates', icon: '☆', route: 'certificates/' },
-  { id: 'ask', label: 'Ask AI', icon: '▢', route: 'ask/' },
-  { id: 'contact', label: 'Get In Touch', icon: '✉', route: 'contact/' }
+  { id: 'certificates', label: 'Certificates', icon: '☆', iconImage: 'asset.certificate.svg', route: 'certificates/' },
+  { id: 'ask', label: 'Ask AI', icon: '▢', iconImage: 'asset.ask ai.svg', route: 'ask/' },
+  { id: 'contact', label: 'Get In Touch', icon: '✉', iconImage: 'asset.get in touch', route: 'contact/' }
 ];
 
 const body = document.body;
