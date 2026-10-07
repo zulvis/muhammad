@@ -6,7 +6,7 @@ const pages = [
   { id: 'skills', label: 'Skills', icon: '✳', route: 'skills/' },
   { id: 'certificates', label: 'Certificates', icon: '☆', iconImage: 'asset.certificate.svg', route: 'certificates/' },
   { id: 'ask', label: 'Ask AI', icon: '▢', iconImage: 'asset.ask ai.svg', route: 'ask/' },
-  { id: 'contact', label: 'Get In Touch', icon: '✉', iconImage: 'asset.get in touch', route: 'contact/' }
+  { id: 'contact', label: 'Get In Touch', icon: '✉', iconImage: 'asset.get in touch.svg', route: 'contact/' }
 ];
 
 const body = document.body;
