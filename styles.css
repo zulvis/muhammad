@@ -15,7 +15,8 @@
 .moment-sequence{display:grid;gap:12px;padding-bottom:12px}
 .moment-card{margin:0;overflow:hidden;border:1px solid var(--line);border-radius:15px;background:var(--surface);box-shadow:var(--shadow)}
 .moment-card img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover}
-.moment-carousel:hover .moment-track,.moment-carousel.is-paused .moment-track{animation-play-state:paused}
+.moment-column:hover .moment-track{animation-play-state:paused}
+.moment-carousel.is-paused .moment-track{animation-play-state:paused}
 .moment-pause{margin-top:14px}
 .moment-empty code{padding:2px 5px;border-radius:5px;background:var(--surface-soft)}
 @keyframes moment-scroll-up{to{transform:translateY(-50%)}}
