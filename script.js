@@ -19,7 +19,7 @@ sidebar.innerHTML = `
     <button class="sidebar-collapse" id="sidebar-collapse" type="button" aria-expanded="true" aria-label="Ciutkan sidebar" title="Ciutkan sidebar"><span aria-hidden="true">‹</span></button>
   </div>
   <div class="identity">
-    <div class="avatar" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false"><circle cx="12" cy="8" r="3.5"></circle><path d="M4.8 20a7.2 7.2 0 0 1 14.4 0"></path></svg></div>
+    <div class="avatar"><img src="${basePath}public/public.ppmzn.png" alt="Foto profil"></div>
     <h2>Muhammad Zulva Navis</h2>
     <p>Management &amp; Business Support</p>
   </div>
