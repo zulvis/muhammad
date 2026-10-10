@@ -41,7 +41,9 @@ body.dark .intro-card>p:not(.eyebrow),body.dark .timeline-card ul,body.dark .lea
 .sidebar-collapse{display:grid;place-items:center;width:32px;height:32px;border:1px solid var(--line);border-radius:10px;background:var(--surface-soft);color:var(--text);font:600 22px/1 'DM Sans',sans-serif;cursor:pointer;transition:background .18s,color .18s,transform .22s}
 .sidebar-collapse:hover{background:var(--accent-soft);color:var(--accent)}
 .sidebar-collapse span{display:block;transition:transform .22s ease}
-.sidebar{transition:width .24s ease,padding .24s ease}
+.sidebar{transition:width .24s ease,padding .24s ease;overflow-x:hidden}
+.avatar{overflow:hidden}
+.avatar img{display:block;width:100%;height:100%;border-radius:inherit;object-fit:cover;object-position:center}
 .main-content{transition:margin-left .24s ease,max-width .24s ease}
 .theme-label{display:inline-flex;align-items:center;gap:8px}
 .sidebar-collapse:focus-visible,.mobile-menu:focus-visible,.nav-link:focus-visible{outline:3px solid color-mix(in srgb,var(--accent) 45%,transparent);outline-offset:2px}
